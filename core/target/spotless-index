@@ -1,0 +1,7 @@
+kMiaOIpM0+nAgcToTUjUvAf2LYETM8aYzKccmSO0G9M=
+src\main\java\com\example\core\domain\model\Conversation.java 2025-04-23T20:34:26.628120400Z
+src\main\java\com\example\core\domain\model\Message.java 2025-04-23T20:34:26.657709800Z
+src\main\java\com\example\core\domain\model\OpenAiResponse.java 2025-04-23T20:34:26.676073200Z
+src\main\java\com\example\core\domain\repository\ConversationRepository.java 2025-04-23T20:34:26.706998300Z
+src\main\java\com\example\core\domain\service\OpenAiService.java 2025-04-23T20:34:26.732205400Z
+src\test\java\com\example\core\domain\service\OpenAiServiceTest.java 2025-04-23T20:34:26.796094500Z

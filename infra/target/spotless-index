@@ -1,0 +1,14 @@
+sqahA/9EMThcV4+68k5XOyHOWNRzMdh771fKbkiyOic=
+src\main\java\com\example\infra\openai\dto\ChoiceDto.java 2025-04-23T20:34:27.001062800Z
+src\main\java\com\example\infra\openai\dto\MessageDto.java 2025-04-23T20:34:27.013982800Z
+src\main\java\com\example\infra\openai\dto\OpenAiRequestDto.java 2025-04-23T20:34:27.028069600Z
+src\main\java\com\example\infra\openai\dto\OpenAiResponseDto.java 2025-04-23T20:34:27.040750900Z
+src\main\java\com\example\infra\openai\dto\UsageDto.java 2025-04-23T20:34:27.056501200Z
+src\main\java\com\example\infra\openai\mapper\OpenAiMapper.java 2025-04-23T20:34:27.087891200Z
+src\main\java\com\example\infra\openai\service\OpenAiServiceImpl.java 2025-04-23T20:34:27.144580300Z
+src\main\java\com\example\infra\repository\entity\ConversationEntity.java 2025-04-23T20:34:27.167147700Z
+src\main\java\com\example\infra\repository\entity\MessageEntity.java 2025-04-23T20:34:27.189357700Z
+src\main\java\com\example\infra\repository\impl\ConversationRepositoryImpl.java 2025-04-23T20:34:27.211043200Z
+src\main\java\com\example\infra\repository\JpaConversationRepository.java 2025-04-23T20:34:27.229115400Z
+src\main\java\com\example\infra\repository\mapper\ConversationMapper.java 2025-04-23T20:34:27.255301600Z
+src\test\java\com\example\infra\openai\mapper\OpenAiMapperTest.java 2025-04-23T20:34:27.285381300Z

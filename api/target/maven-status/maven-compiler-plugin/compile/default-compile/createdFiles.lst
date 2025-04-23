@@ -1,0 +1,6 @@
+com\example\api\dto\MessageResponseDto$MessageResponseDtoBuilder.class
+com\example\api\dto\MessageRequestDto$MessageRequestDtoBuilder.class
+com\example\api\dto\MessageRequestDto.class
+com\example\api\mapper\ApiMapper.class
+com\example\api\controller\OpenAiController.class
+com\example\api\dto\MessageResponseDto.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.core.domain.service.OpenAiServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.158 s -- in com.example.core.domain.service.OpenAiServiceTest

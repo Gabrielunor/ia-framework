@@ -1,0 +1,12 @@
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\dto\ChoiceDto.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\dto\MessageDto.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\dto\OpenAiRequestDto.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\dto\OpenAiResponseDto.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\dto\UsageDto.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\mapper\OpenAiMapper.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\openai\service\OpenAiServiceImpl.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\repository\entity\ConversationEntity.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\repository\entity\MessageEntity.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\repository\impl\ConversationRepositoryImpl.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\repository\JpaConversationRepository.java
+C:\Users\gabri\Downloads\openai-integration-framework.tar\openai-integration-framework\infra\src\main\java\com\example\infra\repository\mapper\ConversationMapper.java

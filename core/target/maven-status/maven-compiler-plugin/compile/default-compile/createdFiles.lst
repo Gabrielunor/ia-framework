@@ -1,0 +1,8 @@
+com\example\core\domain\model\OpenAiResponse.class
+com\example\core\domain\model\Message.class
+com\example\core\domain\model\Message$MessageBuilder.class
+com\example\core\domain\model\Conversation.class
+com\example\core\domain\model\Conversation$ConversationBuilder.class
+com\example\core\domain\model\OpenAiResponse$OpenAiResponseBuilder.class
+com\example\core\domain\repository\ConversationRepository.class
+com\example\core\domain\service\OpenAiService.class

@@ -1,0 +1,7 @@
+SAL7a9MgQwSCIwDSLA2lKljT5Tq8MUrj9H+EBLW6Ukc=
+src\main\java\com\example\api\controller\OpenAiController.java 2025-04-23T20:34:27.352163500Z
+src\main\java\com\example\api\dto\MessageRequestDto.java 2025-04-23T20:34:27.364706500Z
+src\main\java\com\example\api\dto\MessageResponseDto.java 2025-04-23T20:34:27.377891400Z
+src\main\java\com\example\api\mapper\ApiMapper.java 2025-04-23T20:34:27.395016600Z
+src\test\java\com\example\api\controller\OpenAiControllerTest.java 2025-04-23T20:34:27.420520500Z
+src\test\java\com\example\api\mapper\ApiMapperTest.java 2025-04-23T20:34:27.441198Z
