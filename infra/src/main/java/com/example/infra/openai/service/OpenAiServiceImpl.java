@@ -1,7 +1,7 @@
 package com.example.infra.openai.service;
 
-import com.example.config.properties.ContextProperties;
-import com.example.config.properties.OpenAiProperties;
+import com.example.infra.config.properties.ContextProperties;
+import com.example.infra.config.properties.OpenAiProperties;
 import com.example.core.domain.model.Conversation;
 import com.example.core.domain.model.Message;
 import com.example.core.domain.model.OpenAiResponse;

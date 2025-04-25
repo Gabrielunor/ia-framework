@@ -1,6 +1,6 @@
-package com.example.config;
+package com.example.infra.config;
 
-import com.example.config.properties.OpenAiProperties;
+import com.example.infra.config.properties.OpenAiProperties;
 import io.netty.channel.ChannelOption;
 import io.netty.handler.timeout.ReadTimeoutHandler;
 import io.netty.handler.timeout.WriteTimeoutHandler;

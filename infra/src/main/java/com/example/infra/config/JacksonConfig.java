@@ -1,4 +1,4 @@
-package com.example.config;
+package com.example.infra.config;
 
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import org.springframework.boot.autoconfigure.jackson.Jackson2ObjectMapperBuilderCustomizer;

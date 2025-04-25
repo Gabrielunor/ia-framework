@@ -1,6 +1,0 @@
-com\example\config\JacksonConfig.class
-com\example\config\properties\OpenAiProperties.class
-com\example\config\RedisConfig.class
-META-INF\spring-configuration-metadata.json
-com\example\config\WebClientConfig.class
-com\example\config\properties\ContextProperties.class
