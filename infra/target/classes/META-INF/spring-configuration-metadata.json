@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "name": "openai.api",
+      "type": "com.example.infra.config.properties.OpenAiProperties",
+      "sourceType": "com.example.infra.config.properties.OpenAiProperties"
+    },
+    {
+      "name": "openai.context",
+      "type": "com.example.infra.config.properties.ContextProperties",
+      "sourceType": "com.example.infra.config.properties.ContextProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "openai.api.key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.infra.config.properties.OpenAiProperties"
+    },
+    {
+      "name": "openai.api.model",
+      "type": "java.lang.String",
+      "sourceType": "com.example.infra.config.properties.OpenAiProperties"
+    },
+    {
+      "name": "openai.api.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.infra.config.properties.OpenAiProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "openai.api.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.infra.config.properties.OpenAiProperties"
+    },
+    {
+      "name": "openai.context.file-path",
+      "type": "java.lang.String",
+      "sourceType": "com.example.infra.config.properties.ContextProperties"
+    }
+  ],
+  "hints": []
+}
